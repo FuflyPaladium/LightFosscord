@@ -1,7 +1,7 @@
 **Just Lightcord client but for https://dev.fosscord.com/ (Open source self-hosted discord api)**
 
 ```bash
-git clone https://github.com/Lightcord/Lightcord
+git clone https://github.com/FuflyPaladium/LightFosscord
 cd Lightcord
 npm run devInstall
 npm test
